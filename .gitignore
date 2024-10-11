@@ -27,6 +27,4 @@ build/
 tmp/
 temp/
 
-# Dependency lock files (optional, but often included)
-package-lock.json
-yarn.lock
+
